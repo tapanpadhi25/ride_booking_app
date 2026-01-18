@@ -5,7 +5,7 @@ class CustomTheme {
   static ThemeData lightTheme = ThemeData(
     brightness: Brightness.light,
     scaffoldBackgroundColor: Colors.white,
-
+    primaryColor: Colors.green,
     appBarTheme: const AppBarTheme(
       backgroundColor: Colors.green,
       foregroundColor: Colors.white,
@@ -34,7 +34,7 @@ class CustomTheme {
   static ThemeData darkTheme = ThemeData(
     brightness: Brightness.dark,
     scaffoldBackgroundColor: Colors.black,
-
+    primaryColor: Colors.purple,
     appBarTheme: const AppBarTheme(
       backgroundColor: Colors.red,
       foregroundColor: Colors.white,
