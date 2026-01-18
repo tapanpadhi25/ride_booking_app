@@ -7,8 +7,4 @@ class Numbers{
   static late double LABEL_TEXT_SIZE_18 = 18;
   static late double LABEL_TEXT_SIZE_20 = 20;
   static late double LABEL_TEXT_SIZE_22= 22;
-  static late double LABEL_TEXT_SIZE_24 = 24;
-  static late double LABEL_TEXT_SIZE_30 = 30;
-  static late double CONTAINER_HEGIHT_SIZE = 35;
-  static late double CONTAINER_WIDTH_SIZE = 40;
 }
